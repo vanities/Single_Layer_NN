@@ -1,8 +1,6 @@
 # Single_Layer_NN
 Single Layer Neural Network that solves the Iris and Cancer data sets
 
-https://github.com/vanities/Single_Layer_NN/blob/master/images/cancer_acc.png
-
 Check out
 > Single_Layer.ipynb
 
